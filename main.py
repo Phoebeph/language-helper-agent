@@ -76,5 +76,4 @@ response = chat_model.invoke([system_message, human_message])
 
 print("\n📘 DeepSeek Output:\n")
 print(response.content)
-print("hello")
 
